@@ -1,0 +1,14 @@
+we will create an CRUD APIs as follows
+
+Create
+POST /books/{isbn}
+
+Read
+GET /books - > returns all books
+GET /books/{isbn} -> returns a specific book
+
+Update
+POST /books/{isbn}
+
+Delete
+DELETE /books/{isbn}
